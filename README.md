@@ -1,4 +1,4 @@
-# test-conflicts
+# test-conflicts!?
 
 ---
 __Advertisement :)__
@@ -12,12 +12,10 @@ You will like those projects!
 
 ---
 
-# h1 Heading
+# h1 Heading HHH
 ## h2 Heading
 ### h3 Heading
 #### h4 Heading
-##### h5 Heading
-###### h6 Heading
 
 
 ## Horizontal Rules
@@ -29,7 +27,7 @@ ___
 ***
 
 
-## Typographic replacements
+## Typographic replacements ?
 
 Enable typographer option to see result.
 
