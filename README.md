@@ -1,7 +1,7 @@
-# test-conflicts!?
+# test-conflicts f
 
 ---
-__Advertisement :)__
+__Weird Advertisement :(_
 
 You will like those projects add conflict
 
@@ -13,7 +13,6 @@ You will like those projects add conflict
 #### h4 Heading
 #### h5 Heading
 
-
 ## Horizontal Rules
 
 ___
@@ -23,7 +22,7 @@ ___
 ***
 
 
-## Typographic replacements ?
+## Typographic replacements
 
 Enable typographer option to see result.
 
@@ -228,7 +227,6 @@ Term 2
 
 ### [Abbreviations](https://github.com/markdown-it/markdown-it-abbr)
 
-This is HTML abbreviation example.
 
 It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
 
@@ -239,3 +237,6 @@ It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
 ::: warning
 *here be dragons*
 :::
+
+
+
